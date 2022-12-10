@@ -1,0 +1,43 @@
+header{
+    background-color: black;
+    height: 90vh;
+    width: 1220px;
+    position: fixed;
+}
+#filter{
+    color: white;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+div{
+    color: white;
+}
+.btn{
+    background-color: black;
+    color: white;
+    margin-top:25px;
+    margin-left: 50px;
+    height: 30px;
+    width: 105px;
+}
+.info{
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 15px;
+    margin-top:25px;
+    margin-left: 50px;
+    display:  block;
+    width: 500px;
+}
+div ~ button{
+    
+    background-color:white;
+    margin-top:30px;
+    margin-left: 50px;
+    padding: 8px;
+    width: 150px;
+
+}
